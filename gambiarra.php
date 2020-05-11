@@ -1,0 +1,1 @@
+<?php session_start(); $_SESSION['nome'] = $_POST['nome']; header("location: index.php?lt=TesteSQL/q1"); ?>

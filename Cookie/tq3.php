@@ -1,0 +1,1 @@
+<?php setcookie("q2", $_GET['q2']); header("location: ../index.php?lt=Cookie/q3"); ?>
